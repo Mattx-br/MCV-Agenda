@@ -1,0 +1,40 @@
+.background{
+    position:fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+    width: auto;
+    height: auto;
+    z-index: -1000;
+    background-size: cover;
+}
+h1,h2{
+    color:white;
+    text-align:center;
+}
+.form-group{
+    background-color:rgb(76, 77, 124) !important;
+    color:white;
+    opacity: 80%;
+}
+
+a:hover{
+    text-decoration:none !important;
+    color:#000000 !important;
+    background-color:#00ff00 !important;
+}
+
+a:link{
+    background-color:#262626;
+    text-decoration:none; 
+    color:#ffffff;}
+
+a:visited{
+    text-decoration:none; 
+    color:#ffffff;}
+        
+
+p{
+    color:white;
+}
